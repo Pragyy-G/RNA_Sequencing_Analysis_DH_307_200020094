@@ -1,0 +1,5 @@
+"studyid","condition"
+"SRR17053033","WHO II"
+"SRR17053036","WHO I"
+"SRR17053038","WHO I"
+"SRR17053043","WHO I"

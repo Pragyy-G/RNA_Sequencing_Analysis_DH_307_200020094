@@ -1,0 +1,2 @@
+This data/ folder contains all the fastq files.
+This experiment is for Paired-end reads and if  you wish to do that, then download all your files  in this data/ folder with Run_Accession.fastq

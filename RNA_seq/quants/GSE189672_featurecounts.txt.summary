@@ -1,0 +1,15 @@
+Status	HISAT2/SRR17053033_trimd.bam	HISAT2/SRR17053036_trimd.bam	HISAT2/SRR17053038_trimd.bam	HISAT2/SRR17053043_trimd.bam
+Assigned	35784989	35576037	45372498	58726774
+Unassigned_Unmapped	1866918	838997	842465	3037074
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	17092546	16255147	12309306	11710728
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	1245546	599683	629272	15575671
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	3623581	3901501	5041757	5695298
